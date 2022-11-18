@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ganteng.merah/static/css/main.d2edcc16.css",
+    "main.js": "/Ganteng.merah/static/js/main.4c7cff2c.js",
+    "static/js/787.d36ed6b8.chunk.js": "/Ganteng.merah/static/js/787.d36ed6b8.chunk.js",
+    "index.html": "/Ganteng.merah/index.html",
+    "main.d2edcc16.css.map": "/Ganteng.merah/static/css/main.d2edcc16.css.map",
+    "main.4c7cff2c.js.map": "/Ganteng.merah/static/js/main.4c7cff2c.js.map",
+    "787.d36ed6b8.chunk.js.map": "/Ganteng.merah/static/js/787.d36ed6b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2edcc16.css",
+    "static/js/main.4c7cff2c.js"
+  ]
+}
